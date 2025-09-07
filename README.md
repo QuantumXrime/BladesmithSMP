@@ -1,6 +1,5 @@
 # BladesmithSMP
 
-[![Wiki](https://img.shields.io/badge/Minecraft-1.21.7-brightgreen?logo=minecraft)](wiki.bosscraft.org)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.7-brightgreen?logo=minecraft)](https://www.minecraft.net/)
 [![Server Type](https://img.shields.io/badge/Server-Survival-blue)]()
 [![Discord](https://img.shields.io/discord/0?label=Discord&logo=discord&color=7289da)](https://discord.gg/nopanicbutton)
@@ -23,3 +22,4 @@
 - **Server Version**: 1.21.7  
 - **Server Type**: Survival  
 - **Discord**: [Join Here](https://discord.gg/nopanicbutton)  
+- [**Wiki**:](wiki.bosscraft.org)
