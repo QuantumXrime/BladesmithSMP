@@ -22,4 +22,4 @@
 - **Server Version**: 1.21.7  
 - **Server Type**: Survival  
 - **Discord**: [Join Here](https://discord.gg/nopanicbutton)  
-- [**Wiki**:](wiki.bosscraft.org)
+- [**Wiki**](wiki.bosscraft.org)
